@@ -8,7 +8,7 @@ public class CutOperation {
 		
 		System.out.println("hello world");
 		
-		
+		// 왔다감
 		
 	}//main
 
