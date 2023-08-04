@@ -7,8 +7,13 @@ public class CutOperation {
 		// 막대기 자르기
 		
 		System.out.println("hello world");
+
+
+	
+		//홍길동 컷 
+		//	왔다감
 		
-		// 왔다감
+
 		
 	}//main
 
